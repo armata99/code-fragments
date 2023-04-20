@@ -1,2 +1,2 @@
 # code-fragments
-This repo includes useful React-Native code fragments that I frequently used.
+This repo includes useful JS code fragments that I frequently used in React-Native development.
